@@ -28,12 +28,10 @@ export default function Home() {
   
   const exampleMessages = [
     {
-      heading: 'Technical Courses',
-     
+      heading: 'Technical Courses', 
     },
     {
-      heading: 'Management Courses',
-      
+      heading: 'Management Courses', 
     },
     {
       heading: 'Behavioral Courses',
